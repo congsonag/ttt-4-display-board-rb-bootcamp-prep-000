@@ -3,7 +3,7 @@
 
 def display_board(board)
   board.each do |element|
-    
+    row1 = " #{element} "
     
   end
 
